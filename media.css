@@ -110,7 +110,7 @@
         margin-top: 20px;
     }
     .h1{
-        width: 500px;
+        max-width: 500px;
         text-align: center;
     }
     .img1{
@@ -141,5 +141,8 @@
     }
     .img5{
         margin-bottom: 20px;
+    }
+    .top{
+        padding: 10px;
     }
 }

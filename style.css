@@ -187,7 +187,7 @@ span, a {
     padding: 150px;
 }
 .ww{
-    width: 500px;
+    max-width: 500px;
     margin: 0 auto;
 }
 .bottom2{
